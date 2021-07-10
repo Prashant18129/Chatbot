@@ -21,7 +21,7 @@ conversation = [
     "Hello",
     "Hi there!",
     "What is your name?",
-    "My name is chatter. I am created by Abhya,Pranjali and Rudraksh",
+    "My name is chatter. I am created by Prashant Kaundal",
     "How are you doing?",
     "I'm doing great.",
     "That is good to hear",
